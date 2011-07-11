@@ -1,0 +1,21 @@
+Welcome to Ubuntu Bot
+
+UbuntuBot
+Copyright (c) 2009-2011 \dev\null. Licensed under GPLv3 License.
+
+---  INSTALLATION INSTRUCTIONS ---
+
+All you need is to have Posix compatible Operating system and PERL with few it's modules:
+
+* URI::Find::Schemeless
+* LWP::Simple
+* Geo::IP
+* Unicode::CharName
+
+You can install them using cpan. For example.: cpan URI::Find::Schemeless
+
+
+
+
+
+Copyright (c) 2009-2011 \dev\null. Licensed under GPLv3 License.

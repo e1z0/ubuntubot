@@ -5,7 +5,7 @@ Copyright (c) 2009-2011 \dev\null. Licensed under GPLv3 License.
 
 ---  INSTALLATION INSTRUCTIONS ---
 
-All you need is to have Posix compatible Operating system and PERL with few it's modules:
+All you need is to have is POSIX compatible OS and Perl with these modules:
 
 * URI::Find::Schemeless
 * LWP::Simple
@@ -14,10 +14,4 @@ All you need is to have Posix compatible Operating system and PERL with few it's
 * DBI
 * DBD::SQLite
 
-You can install them using cpan. For example.: cpan URI::Find::Schemeless
-
-
-
-
-
-Copyright (c) 2009-2011 \dev\null. Licensed under GPLv3 License.
+You can install them using packages or CPAN. For example: cpan URI::Find::Schemeless

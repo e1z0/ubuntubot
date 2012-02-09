@@ -1,7 +1,7 @@
 Welcome to Ubuntu Bot
 
 UbuntuBot
-Copyright (c) 2009-2011 \dev\null. Licensed under GPLv3 License.
+Copyright (c) 2009-2012 \dev\null. Licensed under GPLv3 License.
 
 ---  INSTALLATION INSTRUCTIONS ---
 
@@ -14,4 +14,4 @@ All you need is to have is POSIX compatible OS and Perl with these modules:
 * DBI
 * DBD::SQLite
 
-You can install them using packages or CPAN. For example: cpan URI::Find::Schemeless
+You can install them using packages (apt, yum) or CPAN. For example: cpan URI::Find::Schemeless
